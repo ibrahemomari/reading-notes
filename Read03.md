@@ -14,18 +14,18 @@
 
 |Element|	In HTML5|
 |---|---|
-|<applet>|Changed to <object>|
-|<acronym>|Changed to <abbr>|
-|<dir>|	Changed to <ul>|
-|<frameset>|Removed|
-|<frame>|Removed|
-|<noframes>|Removed|
-|<strike>|	No new tag. CSS is used for this|
-|<big>|	No new tag. CSS is used for this|
-|<basefont>|	No new tag. CSS is used for this|
-|<font>|	No new tag. CSS is used for this|
-|<center>|	No new tag. CSS is used for this|
-|<tt>|	No new tag. CSS is used for this|
+|< applet>|Changed to <object>|
+|< acronym>|Changed to <abbr>|
+|< dir>|	Changed to <ul>|
+|< frameset>|Removed|
+|< frame>|Removed|
+|< noframes>|Removed|
+|< strike>|	No new tag. CSS is used for this|
+|< big>|	No new tag. CSS is used for this|
+|< basefont>|	No new tag. CSS is used for this|
+|< font>|	No new tag. CSS is used for this|
+|< center>|	No new tag. CSS is used for this|
+|< tt>|	No new tag. CSS is used for this|
 
 
 >DOCTYPES tell browsers which version of HTML you
