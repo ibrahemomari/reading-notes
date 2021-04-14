@@ -47,7 +47,7 @@ not just a number , we can represent the string in binary :
 
 a computer uses a millions of teeny electronic  components .
 
-![string](image_lap04b/4.png)
+![string](https://upload.wikimedia.org/wikipedia/commons/9/9f/Logic-gate-index.png)
 ---
 
 
