@@ -10,4 +10,5 @@ MY FILES LIST :
 |---|---|
 | read01  | [Growth Mindset](https://ibrahemomari.github.io/reading-notes/read01)  |
 | read02  |  [Git](https://ibrahemomari.github.io/reading-notes/Read02) |
+| read04b|[Javascript](https://ibrahemomari.github.io/reading-notes/Read04b)|
 
