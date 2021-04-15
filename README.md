@@ -10,5 +10,8 @@ MY FILES LIST :
 |---|---|
 | read01  | [Growth Mindset](https://ibrahemomari.github.io/reading-notes/read01)  |
 | read02  |  [Git](https://ibrahemomari.github.io/reading-notes/Read02) |
+| read03  |  [EXTRA MARKUP (HTML5)](https://ibrahemomari.github.io/reading-notes/Read03) |
+| read04a |  [Dynamic web pages with JavaScript](https://ibrahemomari.github.io/reading-notes/Read04a) |
 | read04b|[How Computers Work](https://ibrahemomari.github.io/reading-notes/Read04b)|
+| read05  |  [COMPARISON OPERATORS & LOOPS](https://ibrahemomari.github.io/reading-notes/Read05) |
 
