@@ -144,4 +144,188 @@ indicates something that is no longer accurate or relevant (but that should not 
 
 ---
 ## CSS Associates Style rules with HTML elements
+
 ![](image_class-02/2.png)
+
+### CSS Properties Affect How Elements Are Displayed.
+
+---
+
+# Using External CSS
+
+add tag < link> like this :
+
+`<link href="css/styles.css" type="text/css" rel="stylesheet" />`
+
+`href` This specifies the path to the
+CSS file (which is often placed in
+a folder called css or styles). 
+
+`type` This attribute specifies the type of document being linked to. The value should be text/css.
+
+`rel` This specifies the relationship between the HTML page and the file it is linked to. The value should be stylesheet when linking to a CSS file.
+
+---
+
+## Using Internal CSS
+## < style>
+
+You can add a CSS code by in the head tag add a style tag and write your code .
+
+---
+## CSS Selectors
+
+![](image_class-02/3.png)
+
+
+---
+## Inheritance
+You can compare this with the background-color or border properties; they are not inherited by child elements. If these were inherited by all child elements then the page could look quite messy.
+
+```
+body {
+font-family: Arial, Verdana, sans-serif;
+color: #665544;
+padding: 10px;}
+.page {
+border: 1px solid #665544;
+background-color: #efefef;
+padding: inherit;}
+```
+
+---
+
+
+# JavaScript 
+
+## STATEMENTS
+
+A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon.
+
+## COMMENTS
+
+You should write comments to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code.
+
+```
+/* Th i s script displays a greeting to the user based upon the current time.
+It is an example from JavaScript & jQuery book */
+```
+
+## WHAT IS A VARIABLE?
+
+A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables.
+
+![](image_class-02/4.png)
+
+![](image_class-02/5.png)
+
+
+## DATA TYPE:
+
+* NUMERIC DATA TYPE `1 ,55 , 2.5 , 66.445`
+* STRING DATA TYPE `Hi , abcd..`
+* BOOLEAN DATA TYPE `true , false`
+
+
+---
+
+
+## RULES FOR NAMING VARIABLES :
+
+1. The name must begin with a letter, dollar sign ($),or an underscore (_). It must not start with a number.
+2. The name can contain letters, numbers, dollar sign ($), or an  underscore (_). Note that you must not use a dash(-) or a period (.) in a variable name.
+3. You cannot use keywords or reserved words. Keywords are special words that tell the interpreter to do something. For example, var is a keyword used to declare a variable. Reserved words are ones that may be used in a future version of JavaScript.
+4. All variables are case sensitive, so score and Score would be different variable names, but it is bad practice to create two variables that have the same name using different cases.
+5. Use a name that describes the kind of information that the variable stores. For example, fi rstName might be used to store a person's first name,l astNarne for their last name, and age for their age.
+6. If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word. For example, f i rstName rather than fi rstnarne (this is referred to as camel case). You can also use an underscore between each word (you cannot use a dash).
+
+
+
+# ARRAYS
+
+An array is a special type of variable. It doesn't just store one value; it stores a list of values.
+
+```
+var colors;
+colors = ['white', 'black', ' custom '];
+var el=document.getElementByld('col ors');
+el.textContent = col ors[O];
+```
+
+---
+
+# CONDITION
+
+![](image_class-02/6.png)
+
+## COMPARISON OPERATORS :
+
+|OPERATOR| DESCRIPTION |
+|---|---|
+|(==) equal to|compares two values to see if are the same|
+|(!=) not equal|compares two values to see if are not the same|
+|(===) strict equal to|compares two values to check that both the data type and value the same |
+|(!==) strict not equal to|compares two values to check that both the data type and value are not the same |
+|(>) greater than|check if the number in the left is greater than the number on the right|
+|(<) less than|check if the number in the left is less than the number on the right|
+|(>=) greater than or equal|check if the number in the left is greater than or equal the number on the right|
+|(<=) less than or equal|check if the number in the left is less than or equal the number on the right|
+
+```
+var scorel = 90; // Round 1 score
+var score2 = 95; // Round 2 score
+var highScorel 75; // Round 1 high score
+var highScore2 = 95; // Round 2 high score
+
+// Check if scores are higher than current high scores
+var comparison= (score!+ score2) > (highScorel + highScore2);
+II Write the message into the page
+var el = document.getElementByid( 'answer');
+el .textContent ='New high score:'+ comparison;
+```
+
+
+---
+
+
+## LOGICAL OPEOPERATORS 
+
+|OPERATOR|DESCRIPTION|
+|---|---|
+|(&&) logical and|to test more than one condition|
+|(\|\|) logical or  |test at least one condition|
+|(!) logical not|takes a single boolean value and inverts it |
+
+
+```
+var scorel = 8;// Round 1 score
+var score2 = 8;// Round 2 score
+var passl 6;// Round 1 pass mark
+var pass2 = 6;// Round 2 pass mark
+
+
+
+
+Next, the message is stored
+in a variable called msg. At the
+end of the message, the logical
+NOT will invert the result of the
+Boolean variable so it is false.
+It is then written into the page.
+II Check wh ether user passed one of the two rounds. store result in vari able
+var minPass = ((scorel >= passl) I I (score2 >= pass2));
+II Create message
+var msg = 'Resit required: ' + !(minPass);
+II Write the message into the page
+var el = document.getElementByld('answer');
+el .textContent = msg;
+```
+
+---
+
+# If statements 
+
+evaluats or checks a condition . if the cinditin evaluates to true , any statments in the subsequent code blick are ececuted.
+
+![](image_class-02/7.png)
+![](image_class-02/8.png)
