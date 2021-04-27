@@ -30,8 +30,8 @@ ___
 |||
 |---|---|
 |Class-01|[html,css,javaScript](https://ibrahemomari.github.io/reading-notes/Class-01)|
-|Class-02|[]()|
-|Class-03|[]()|
+|Class-02|[html,css,javaScrip](https://ibrahemomari.github.io/reading-notes/Class-02)|
+|Class-03|[html,css,javaScript](https://ibrahemomari.github.io/reading-notes/Class-03)|
 |Class-04|[]()|
 |Class-05|[]()|
 |Class-06|[]()|
