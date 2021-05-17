@@ -39,8 +39,8 @@ ___
 |Class-08|[html,css,javaScript](https://ibrahemomari.github.io/reading-notes/Class-08)|
 |Class-09|[html,css,javaScript](https://ibrahemomari.github.io/reading-notes/Class-09)|
 |Class-10|[html,css,javaScript](https://ibrahemomari.github.io/reading-notes/Class-10)|
-|Class-11|[]()|
-|Class-12|[]()|
+|Class-11|[Images & Video & Audio](https://ibrahemomari.github.io/reading-notes/Class-11)|
+|Class-12|[Chart.js](https://ibrahemomari.github.io/reading-notes/Class-12)|
 |Class-13|[]()|
 |Class-14|[]()|
 |Class-15|[]()|
