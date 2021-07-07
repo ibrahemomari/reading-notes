@@ -51,8 +51,17 @@ ___
 
 |||
 |---|---|
-||[]()|
-||[]()|
-||[]()|
-||[]()|
-||[]()|
+|Class 01|[React JS](https://ibrahemomari.github.io/reading-notes/Class01)|
+|Class 02|[lifecycle of react](https://ibrahemomari.github.io/reading-notes/Class02)|
+|Class 03|[Array methods](https://ibrahemomari.github.io/reading-notes/Class03)|
+|Class 04|[Controlled Component](https://ibrahemomari.github.io/reading-notes/Class04)|
+|Class 05|[Thinking in React](https://ibrahemomari.github.io/reading-notes/Class05)|
+|Class 06|[node.js](https://ibrahemomari.github.io/reading-notes/Class06)|
+|Class 07|[REST](https://ibrahemomari.github.io/reading-notes/Class07)|
+|Class 08|[HTTP verbs](https://ibrahemomari.github.io/reading-notes/Class08)|
+|Class 09|[functional programming](https://ibrahemomari.github.io/reading-notes/Class09)|
+|Class 10|[Call Stack](https://ibrahemomari.github.io/reading-notes/Class10)|
+|Class 11|[OAuth](https://ibrahemomari.github.io/reading-notes/Class11)|
+|Class 12|[database](https://ibrahemomari.github.io/reading-notes/Class12)|
+|Class 13|[CRUD](https://ibrahemomari.github.io/reading-notes/Class13)|
+|Class 14|[computer sciene](https://ibrahemomari.github.io/reading-notes/Class14)|
