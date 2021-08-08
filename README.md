@@ -71,3 +71,4 @@ ___
 |Title|Link|
 |---|---|
 |Prep Reading|[Get Ready for 401](https://ibrahemomari.github.io/reading-notes/Read401prep)|
+|Read class 1|[Node Ecosystem, TDD, CI/CD](https://ibrahemomari.github.io/reading-notes/Read401class1)|
