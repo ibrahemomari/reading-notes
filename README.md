@@ -73,4 +73,6 @@ ___
 |Prep Reading|[Get Ready for 401](https://ibrahemomari.github.io/reading-notes/Read401prep)|
 |Read class 1|[Node Ecosystem, TDD, CI/CD](https://ibrahemomari.github.io/reading-notes/Read401class1)|
 |Read class 2|[Express](https://ibrahemomari.github.io/reading-notes/Read401class2)|
-|Read class 2|[Express REST API](https://ibrahemomari.github.io/reading-notes/Read401class3)|
+|Read class 3|[Express REST API](https://ibrahemomari.github.io/reading-notes/Read401class3)|
+|Read class 4|[Data Modeling](https://ibrahemomari.github.io/reading-notes/Read401class4)|
+|Read class 2|[Linked List](https://ibrahemomari.github.io/reading-notes/Read401class5)|
