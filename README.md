@@ -75,4 +75,5 @@ ___
 |Read class 2|[Express](https://ibrahemomari.github.io/reading-notes/Read401class2)|
 |Read class 3|[Express REST API](https://ibrahemomari.github.io/reading-notes/Read401class3)|
 |Read class 4|[Data Modeling](https://ibrahemomari.github.io/reading-notes/Read401class4)|
-|Read class 2|[Linked List](https://ibrahemomari.github.io/reading-notes/Read401class5)|
+|Read class 5|[Linked List](https://ibrahemomari.github.io/reading-notes/Read401class5)|
+|Read class 6|[Authentication](https://ibrahemomari.github.io/reading-notes/Read401class6)|
