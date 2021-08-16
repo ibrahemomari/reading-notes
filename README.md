@@ -78,3 +78,4 @@ ___
 |Read class 5|[Linked List](https://ibrahemomari.github.io/reading-notes/Read401class5)|
 |Read class 6|[Authentication](https://ibrahemomari.github.io/reading-notes/Read401class6)|
 |Read class 6|[Authentication](https://ibrahemomari.github.io/reading-notes/Read401class7)|
+|Read class 7|[Access Control (ACL)](https://ibrahemomari.github.io/reading-notes/Read401class8)|
