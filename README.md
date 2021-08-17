@@ -77,5 +77,6 @@ ___
 |Read class 4|[Data Modeling](https://ibrahemomari.github.io/reading-notes/Read401class4)|
 |Read class 5|[Linked List](https://ibrahemomari.github.io/reading-notes/Read401class5)|
 |Read class 6|[Authentication](https://ibrahemomari.github.io/reading-notes/Read401class6)|
-|Read class 6|[Authentication](https://ibrahemomari.github.io/reading-notes/Read401class7)|
-|Read class 7|[Access Control (ACL)](https://ibrahemomari.github.io/reading-notes/Read401class8)|
+|Read class 7|[Authentication](https://ibrahemomari.github.io/reading-notes/Read401class7)|
+|Read class 8|[Access Control (ACL)](https://ibrahemomari.github.io/reading-notes/Read401class8)|
+|Read class 9|[authentication and authorization](https://ibrahemomari.github.io/reading-notes/Read401class9)|
