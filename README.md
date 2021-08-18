@@ -80,3 +80,4 @@ ___
 |Read class 7|[Authentication](https://ibrahemomari.github.io/reading-notes/Read401class7)|
 |Read class 8|[Access Control (ACL)](https://ibrahemomari.github.io/reading-notes/Read401class8)|
 |Read class 9|[authentication and authorization](https://ibrahemomari.github.io/reading-notes/Read401class9)|
+|Read class 10|[authentication and authorization](https://ibrahemomari.github.io/reading-notes/Read401class10)|
