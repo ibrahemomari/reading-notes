@@ -83,3 +83,4 @@ ___
 |Read class 10|[Stacks and Queues](https://ibrahemomari.github.io/reading-notes/Read401class10)|
 |Read class 11|[Event Driven Applications](https://ibrahemomari.github.io/reading-notes/Read401class11)|
 |Read class 12|[Socket.io](https://ibrahemomari.github.io/reading-notes/Read401class12)|
+|Read class 13|[Message Queues](https://ibrahemomari.github.io/reading-notes/Read401class13)|
