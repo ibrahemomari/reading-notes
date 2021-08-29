@@ -87,3 +87,4 @@ ___
 |Read class 14|[Event Driven Architecture](https://ibrahemomari.github.io/reading-notes/Read401class14)|
 |Read class 15|[Trees](https://ibrahemomari.github.io/reading-notes/Read401class15)|
 |Read class 16|[AWS: Cloud Servers](https://ibrahemomari.github.io/reading-notes/Read401class16)|
+|Read class 17|[AWS: S3 and Lambda](https://ibrahemomari.github.io/reading-notes/Read401class17)|
