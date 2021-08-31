@@ -89,3 +89,4 @@ ___
 |Read class 16|[AWS: Cloud Servers](https://ibrahemomari.github.io/reading-notes/Read401class16)|
 |Read class 17|[AWS: S3 and Lambda](https://ibrahemomari.github.io/reading-notes/Read401class17)|
 |Read class 18|[AWS: API, Dynamo and Lambda](https://ibrahemomari.github.io/reading-notes/Read401class18)|
+|Read class 19|[AWS: Events](https://ibrahemomari.github.io/reading-notes/Read401class19)|
