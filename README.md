@@ -90,3 +90,6 @@ ___
 |Read class 17|[AWS: S3 and Lambda](https://ibrahemomari.github.io/reading-notes/Read401class17)|
 |Read class 18|[AWS: API, Dynamo and Lambda](https://ibrahemomari.github.io/reading-notes/Read401class18)|
 |Read class 19|[AWS: Events](https://ibrahemomari.github.io/reading-notes/Read401class19)|
+|...|...|
+|Read class 26|[Component Based UI](https://ibrahemomari.github.io/reading-notes/Read401class26)|
+|Read class 27|[useState() Hook](https://ibrahemomari.github.io/reading-notes/Read401class27)|
