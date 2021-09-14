@@ -94,3 +94,4 @@ ___
 |Read class 26|[Component Based UI](https://ibrahemomari.github.io/reading-notes/Read401class26)|
 |Read class 27|[useState() Hook](https://ibrahemomari.github.io/reading-notes/Read401class27)|
 |Read class 28|[useEffect() Hook](https://ibrahemomari.github.io/reading-notes/Read401class28)|
+|Read class 29|[Advanced State with Reducers](https://ibrahemomari.github.io/reading-notes/Read401class29)|
