@@ -98,3 +98,4 @@ ___
 |Read class 30|[Hashtables](https://ibrahemomari.github.io/reading-notes/Read401class30)|
 |Read class 31|[Context API](https://ibrahemomari.github.io/reading-notes/Read401class31)|
 |Read class 32|[Context API - Behaviors](https://ibrahemomari.github.io/reading-notes/Read401class32)|
+|Read class 33|[< Login /> and < Auth />](https://ibrahemomari.github.io/reading-notes/Read401class33)|
