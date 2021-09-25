@@ -101,3 +101,4 @@ ___
 |Read class 33|[< Login /> and < Auth />](https://ibrahemomari.github.io/reading-notes/Read401class33)|
 |Read class 34|[API Integration](https://ibrahemomari.github.io/reading-notes/Read401class34)|
 |Read class 35|[Graphs](https://ibrahemomari.github.io/reading-notes/Read401class35)|
+|Read class 36|[Application State with Redux](https://ibrahemomari.github.io/reading-notes/Read401class36)|
