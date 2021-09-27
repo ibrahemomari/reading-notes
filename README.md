@@ -103,3 +103,4 @@ ___
 |Read class 35|[Graphs](https://ibrahemomari.github.io/reading-notes/Read401class35)|
 |Read class 36|[Application State with Redux](https://ibrahemomari.github.io/reading-notes/Read401class36)|
 |Read class 37|[Combined Reducers](https://ibrahemomari.github.io/reading-notes/Read401class37)|
+|Read class 38|[Redux - Asynchronous Actions](https://ibrahemomari.github.io/reading-notes/Read401class38)|
